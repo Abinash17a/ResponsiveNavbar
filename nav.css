@@ -9,7 +9,7 @@ body{
   display:flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgb(36, 36, 36);
+  background-color: rgb(35, 36, 36);
   color: white;
 }
 .brand-title{
@@ -35,7 +35,7 @@ body{
 }
 .toggle-button{
   position: absolute;
-  top: .75rem;
+  top: .78rem;
   right: 1rem;
   display: none;
   flex-direction: column;
@@ -44,7 +44,7 @@ body{
   height: 21px;
 }
 .toggle-button .bar{
-  height: 3px;
+  height: 2.8px;
   width: 100%;
   background-color: white;
   border-radius:10px;
